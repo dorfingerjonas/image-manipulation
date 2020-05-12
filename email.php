@@ -1,5 +1,5 @@
 <?php
-$email = "sebastian.scholl@gmx.at";
+$email = "dorfinger.jonas@gmx.at";
 $textNr = 4;
 $textWidth = imagefontwidth($textNr) * strlen($email);
 $textHeight = imagefontheight($textNr);
