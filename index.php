@@ -12,7 +12,7 @@ imagefilledellipse($image, 200, 150, 250, 250, $color1);
 imagefilledellipse($image, 150, 110, 60, 60, $color2);
 imagefilledellipse($image, 250, 110, 60, 60, $color2);
 imagefilledrectangle($image, 195, 150, 205, 185, $color2);
-imagefilledellipse($image, 200, 230, 130, 15, $color3);
+imagefilledellipse($image, 200, 230, 130, 20, $color3);
 
 imagepng($image);
 
